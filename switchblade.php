@@ -3,7 +3,7 @@
 // Switchblade CC Checker - Developed from 1 August 2021 by @rizzyneck
 // Base from Andrymata - Made with ❤
 // Last updated 18 September 2021
-// Webhook: https://api.telegram.org/bot<token>/setwebhook?url=<url>
+// Webhook: https://api.telegram.org/bot6166238595:AAEmO9RIziIVigw5motgiYahtnpqFANyuCI/setwebhook?url=<url>
 
 // BOT API Configuration
 $botToken = "6166238595:AAEmO9RIziIVigw5motgiYahtnpqFANyuCI"; #<------------------- PUT YOUR TOKEN HERE------------->#
